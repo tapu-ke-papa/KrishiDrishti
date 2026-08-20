@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "KrishiDrisht",
+    "slug": "krishi-drisht",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": { "package": "in.krishidrisht.app" },
+    "ios": { "bundleIdentifier": "in.krishidrisht.app" }
+  }
+}
